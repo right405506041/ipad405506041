@@ -1,1 +1,2 @@
-# Wechat_Ipad_Mac
+微信iPad接口
+有需求请联系QQ405506041
